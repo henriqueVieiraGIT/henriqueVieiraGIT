@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @henriqueVieiraGIT and this is my personal Repository.
+- 🌱 I’ll be working on some personal projects, trying out many different programming languages and technologies.
